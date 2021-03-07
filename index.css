@@ -40,8 +40,8 @@ head {
   transform:translate(-50%, -50%);
 }
 
-h1 {
-  font-family:monospace;
+ {
+　　font-family: 'RocknRoll One';
 }
 
 @keyframes slide {
