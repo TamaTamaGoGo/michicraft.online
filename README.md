@@ -1,1 +1,1 @@
-https://tamatamagogo.github.io/michicraft.online/index.html
+https://tamatamagogo.github.io/michicraft.online/
